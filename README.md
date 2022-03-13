@@ -1,7 +1,5 @@
 ## Hi! My name is Rafael Freire, i'm a Web Developer from Brazil, Natal - RN.
 
-<br>
-
 ### Technologies that i'm work today:
 
 <br>
@@ -22,7 +20,7 @@
 
 <br>
 
-Contact:
+### Contact:
 
 <br>
 
@@ -32,7 +30,7 @@ Contact:
 
 <br>
 
-Github Stats:
+### Github Stats:
 
 <br>
 
